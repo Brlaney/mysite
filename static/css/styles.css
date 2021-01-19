@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Heebo:wght@500&family=Nunito&family=Rubik&display=swap');
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Heebo', sans-serif;
+}
+
+p, a, body {
+    font-family: 'Rubik', sans-serif;
+    font-size: 18px;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.input {
+    max-width: 750px;
+}
